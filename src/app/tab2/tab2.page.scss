@@ -1,0 +1,38 @@
+ion-item {
+
+
+    --min-height : 35 px ;
+    --inner-padding-end : 10 px ;
+
+    ion-label {
+        altura : 35 px ;
+        margem : 0 ;
+        peso da fonte : negrito ;
+        margem esquerda : 15 px ;
+    
+    }
+
+    ion-badge {
+        margem esquerda : 10 px ;
+        
+    }
+    ion-note {
+        tamanho da fonte : 1 rem ;
+        altura : 35 px ;
+        margem : 0 ;
+        preenchimento : 0 ;
+        padding-top : 5 px ;
+        peso da fonte : negrito ;
+
+        span {
+            peso da fonte : 300 ;
+        }
+    }
+}
+
+img {
+    altura mínima : 145 px ;
+    largura mínima : 100 % ;
+    
+   
+}
